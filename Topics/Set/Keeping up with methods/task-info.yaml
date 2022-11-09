@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: delete()
+- text: discard()
+- text: remove()
+- text: clear()
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6645#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sun, 06 Nov 2022 23:55:47 UTC"
+record: -1
+selected_options:
+- 3
+local_check: false
